@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function() {
     document.querySelectorAll('.navbar-brand.js-scroll-trigger').forEach(function(el) {
-        el.innerHTML = '<strong>Freeze Nova</strong>';
+        el.innerHTML = '<strong>Freezenova</strong>';
         el.style.visibility = 'visible';
     });
 });
@@ -49,7 +49,7 @@ function loadGoogleAnalytics(trackingId) {
 }
 
 // Usage
-loadGoogleAnalytics('G-9C8MV2ZHXS');
+loadGoogleAnalytics('G-YPG6QW794X');
 
 (function() {
     // Remove all Rodesquad ad scripts, iframes, and containers regularly
