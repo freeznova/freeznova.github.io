@@ -3,4 +3,4 @@ Disallow: /admin
 
 Allow: /sitemap.xml
 
-Sitemap:https://freeze-nova.bitbucket.io/sitemap.xml
+Sitemap:https://freeznova.github.io/sitemap.xml
